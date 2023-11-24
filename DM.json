@@ -33,7 +33,7 @@
 {"key":"路飞磁力","name":"🍒路飞┃磁力","type":3,"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"api":"./lib/lf_p2p2_min.js","ext":"","timeout":60},
 {"key":"人人影视","name":"🚛人人┃网盘","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yyets.js", "quickSearch":1, "changeable":0, "timeout":30},
 {"key":"七夜","name":"🚲七夜┃网盘","type":3,"api":"csp_Dovx","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
-{"key":"易搜","name":"🛸易搜┃网盘","type":3,"api":"csp_YiSo","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2", "timeout":30},
+{"key":"易搜","name":"🛸易搜┃网盘","type":3,"api":"csp_YiSo","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294", "timeout":30},
 {"key":"Up搜","name":"🚁Up搜┃网盘","type":3,"api":"csp_UpYun","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
 {"key":"盘搜索","name":"🚢盘搜┃网盘","type":3,"api":"csp_PanSearch","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
 {"key":"小纸条", "name":"🚃纸条┃网盘", "type": 3, "api":"csp_XiaoZhiTiao","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.json", "timeout":30},
