@@ -40,8 +40,7 @@
         "name":"福利接口",
         "url": "https://raw.fgit.cf/ajin0913/TV/main/zadq.zip",
         "icon": "https://gitee.com/ajin0913/jin/raw/master/json/2.jpeg",
-        "copy": "file://Download/zadq.txt",
-        "version":"复制到直播接口"
+        "copy": "file://Download/zadq.txt"
        }    
     ]
   },
