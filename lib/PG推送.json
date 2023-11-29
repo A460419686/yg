@@ -2,7 +2,7 @@
 "token":"http://127.0.0.1:9978/file/tvbox/token.txt",
 "open_token":"",
 "thread_limit":32,
-"vod_flags":"4k|qhd",
+"vod_flags":"4kz|4k|qhd",
 "aliproxy":"",
 "proxy":"",
 "open_api_url":"https://api.xhofe.top/alist/ali_open/",
