@@ -22,7 +22,7 @@
 {"key":"易搜","name":"🛸易搜┃网盘","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt", "danmu": true, "cookie": "satoken=1aee2366-2ff4-4436-b321-a14db23e8294"}},
 {"key":"Up搜","name":"🚁Up搜┃网盘","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt", "danmu": true}},
 {"key":"云盘4K","name":"🚛云盘┃网盘","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt", "danmu": true}},
-{"key":"push_agent","name":"🎥影视┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt", "cookie": "http://127.0.0.1:9978/file/tvfan/cookie.txt", "danmu": true}}
+{"key":"push_agent","name":"🎥影视┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"http://127.0.0.1:9978/file/tvfan/token.txt", "cookie": "./lib/cookie.txt", "danmu": true}}
 ],
 
 "parses":[
