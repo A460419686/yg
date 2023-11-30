@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.nogo.jar",
+"spider":"https://jihulab.com/bestyr1/xiaobai/-/raw/master/jar/pg.jar;md5;11be97a6cb52c128f32873d817b9feed",
 "lives": [{"name": "live","type": 0,"url": "https://raw.fgit.cf/ajin0913/TV/main/tv1.txt","ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://gitee.com/ajin0913/jin/raw/master/1.jpg",
 "sites":[
