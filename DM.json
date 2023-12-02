@@ -1,5 +1,5 @@
 {
-"spider":"https://jihulab.com/bestyr1/xiaobai/-/raw/master/jar/pg.jar;md5;108400c5710990c5e517472862dcb9ad",
+"spider":"https://jihulab.com/bestyr1/xiaobai/-/raw/master/jar/pg.jar;md5;332924f0d633ee4309d86830bf9c4a1a",
 "lives": [{"name": "live","type": 0,"url": "https://raw.fgit.cf/ajin0913/TV/main/tv1.txt","ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://gitee.com/ajin0913/jin/raw/master/1.jpg",
 "sites":[
