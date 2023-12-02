@@ -1,6 +1,7 @@
 {
 "token":"http://127.0.0.1:9978/file/tvbox/token.txt",
-"thread_limit":4,
+"open_token":"",
+"thread_limit":10,
 "quark_thread_limit":10,
 "vod_flags":"4kz|auto",
 "is_vip":true,
