@@ -1,9 +1,10 @@
 {
-"spider":"https://jihulab.com/bestyr1/xiaobai/-/raw/master/jar/pg.jar;md5;332924f0d633ee4309d86830bf9c4a1a",
+"spider":"https://jihulab.com/bestyr1/xiaobai/-/raw/master/jar/pg.jar;md5;e448083625e8c9048cb72c053925e0a0",
 "lives": [{"name": "live","type": 0,"url": "https://raw.fgit.cf/ajin0913/TV/main/tv1.txt","ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://gitee.com/ajin0913/jin/raw/master/1.jpg",
 "sites":[
-{"key":"豆瓣","name":"🌕淇淇我们在等你","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/douban.json"},
+{"key":"豆瓣","name":"🌕请前往配置中心","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/douban.json"},
+{"key":"配置中心","name":"🏬配置┃中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext":"./lib/PG推送.json"},
 {"key":"应用商店","name":"🏪应用┃商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/market.json"},
 {"key":"酷狗","name":"🐶酷狗┃音乐","type":3,"api":"csp_Kugou","searchable":1,"changeable":0},
 {"key":"看球","name":"⚽看球┃直播","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
