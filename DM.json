@@ -1,11 +1,12 @@
 {
-"spider":"https://jihulab.com/bestyr1/xiaobai/-/raw/master/jar/pg.jar;md5;1526e714b8aa101dcd78060548871e24",
+"spider":"https://jihulab.com/bestyr1/xiaobai/-/raw/master/jar/pg.jar;md5;26dd5c5643385f5fe4447a9fda705438",
 "lives": [{"name": "live","type": 0,"url": "https://raw.fgit.cf/ajin0913/TV/main/tv1.txt","ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://gitee.com/ajin0913/jin/raw/master/1.jpg",
 "sites":[
 {"key":"豆瓣","name":"🌕马上删库跑路，请删除此接口","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/douban.json"},
 {"key":"配置中心","name":"🏬配置┃中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext":"./lib/PG推送.json"},
 {"key":"应用商店","name":"🏪应用┃商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/market.json"},
+{"key":"短剧","name":"🩳短剧┃影视","type":3,"api": "csp_Duanju","searchable": 0,"changeable":0},
 {"key":"酷狗","name":"🐶酷狗┃音乐","type":3,"api":"csp_Kugou","searchable":1,"changeable":0},
 {"key":"看球","name":"⚽看球┃直播","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
 {"key":"路飞直播","name":"☠路飞┃直播","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"ext":"./js/lf_live.txt"},
